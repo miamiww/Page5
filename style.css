@@ -1,0 +1,19 @@
+
+
+body{
+  color: black;
+  background: tan;
+}
+
+.div1{
+  color: green;
+  background: purple;
+  margin: 2em;
+
+}
+
+.div2{
+  color: white;
+  background: black;
+  margin: 2em;
+}
